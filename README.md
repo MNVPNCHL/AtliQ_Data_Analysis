@@ -23,6 +23,6 @@ Consumer Goods | Function : Excecutive Management
 
 #### Task :
 
-1. Check [ad-hoc-requests.pdf](RAW_Files/ad-hoc-requests.pdf) - there are 10 ad hoc requests for which the business needs insights.
+1. Check ad-hoc-request.pdf there are 10 ad hoc requests for which the business needs insights.
 2. Need to run a SQL query to answer these requests. 
 3. The target audience of this dashboard is top-level management - hence want to create a presentation to show the insights.
