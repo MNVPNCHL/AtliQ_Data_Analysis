@@ -251,7 +251,7 @@ with forecast_err_table as (
 	from forecast_err_table
         order by forecast_accuracy desc;
 
-#give grant to specific users to acces the database
+#give grant to specific users to acces the database through the Administration
 show grants for 'smit'
 
 
